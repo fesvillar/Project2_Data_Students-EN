@@ -1,4 +1,4 @@
-In this project I downloaded a kaggle dataset https://www.kaggle.com/spscientist/students-performance-in-exams with the performance of students from a fictional school. The following analysis was carried out assuming that the preparatory course is paid for.
+In this project I downloaded a kaggle dataset https://www.kaggle.com/spscientist/students-performance-in-exams with the performance of students from a fictional school. The following analysis was carried out assuming that the preparatory course is paid.
 
 ![](Images/1.png)
 
@@ -22,16 +22,15 @@ school offered was almost twice the number of students who participated.
 
 ![](Images/4_2.png)
 
-With that in mind I made the graph "Math, reading and writing average score based on Test preparation course completion" to find out if the fact that the students who did not attended the preparatory course would have a direct influence on their grades and I realized that there was a correlation, showing that on average the students who participated in the preparatory course had a higher grade in all three subjects, which means that the course, despite the low adherence of students, shows good results.
+With that in mind I made the graph "Math, reading and writing average score based on Test preparation course completion" to find out if the fact that the students who did not attend the preparatory course would have a direct influence on their grades and I realized that there was a correlation, showing that on average the students who participated in the preparatory course had a higher grade in all three subjects, which means that the course, despite the low adherence of students, shows good results.
 
 ![](Images/4_3.png)
 
-I made the chart "Test preparation course participation based on parental level of education" to find out if there would be any relationship between the education level of the parents of each student and his participation in the preparatory course, and even though some levels of parents' education had more or less student participation, I didn't think
-so relevant to build up a strategy around that.
+I made the chart "Test preparation course participation based on parental level of education" to find out if there would be any correlation between the education level of the parents of each student and their participation in the preparatory course, and even though some levels of parents' education had more or less student participation, I didn't think it was so relevant to build up a strategy around that.
 
 ![](Images/4_4.png)
 
-In "Students participation on test preparation course based on family income" I realized that there was not a strong relationship between family income and the rate of students' adhesion to the preparatory course.
+In "Students participation on test preparation course based on family income" I realized that there was not a strong correlation between family income and the rate of students' adhesion to the preparatory course.
 
-Based on the data above, it is clear that the cost of the course is not an impediment to your membership, since the percentage of people categorized as "low income" is very close to the percentage of people categorized as "standard income". In addition, I could also notice from the first graphics that the course delivers a good result, which would not justify its low adherence. Thus, it is possible to believe that the main problem to be solved is the low perceived value of the course by the students. Our goal, therefore, is to add value and relevance to the preparatory course. For this, our insight is to offer a free trial period to all students.
+Based on the data above, it is clear that the cost of the course is not an impediment to their membership, since the percentage of people categorized as "low income" is very close to the percentage of people categorized as "standard income". In addition, I could also notice from the first graphics that the course delivers a good result, which does not justify its low adherence. Thus, it is possible to believe that the main problem to be solved is the low perceived value of the course by the students. Our goal, therefore, is to add value and relevance to the preparatory course. For this, our insight is to offer a free trial period to all students.
 Our main thesis is that the trial period will have a direct impact on these students' grades, resulting in greater adherence.
