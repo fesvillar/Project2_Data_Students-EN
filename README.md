@@ -2,7 +2,7 @@ In this project I downloaded a kaggle dataset https://www.kaggle.com/spscientist
 
 ![](Images/1.png)
 
-After opening the table in excel to see what kind of data I was dealing with, I took advantage and organized it.
+After opening the file in excel to see what kind of data I was dealing with, I decided to organize the information right away.
 
 ![](Images/2.png)
 
@@ -22,7 +22,7 @@ school offered was almost twice the number of students who participated.
 
 ![](Images/4_2.png)
 
-With that in mind I made the graph "Math, reading and writing average score based on Test preparation course completion" to find out if the fact that the students who did not attended the preparatory course would have a direct influence on their grades and I realized that there was a relationship, showing that on average the students who participated in the preparatory course had a higher grade in all three subjects, which means that the course, despite the low adherence of students, shows good results.
+With that in mind I made the graph "Math, reading and writing average score based on Test preparation course completion" to find out if the fact that the students who did not attended the preparatory course would have a direct influence on their grades and I realized that there was a correlation, showing that on average the students who participated in the preparatory course had a higher grade in all three subjects, which means that the course, despite the low adherence of students, shows good results.
 
 ![](Images/4_3.png)
 
